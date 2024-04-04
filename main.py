@@ -1,3 +1,1 @@
-#change code today
-#change code tomorrow
-#change code next week
+# you are not cleaver to add secrets
